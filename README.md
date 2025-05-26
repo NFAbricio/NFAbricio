@@ -8,7 +8,7 @@ Eu estudo programação a 4 anos. Meu ensino médio foi na ETEC-Poá, e atualmen
 
 * 🌍  I'm based in São Paulo
 * ✉️  You can contact me at [fabnunes014@gmail.com](mailto:fabnunes014@gmail.com)
-* 🧠  I'm learning Spring Framework
+* 🧠  I'm learning Golang
 
 ### Skills
 
