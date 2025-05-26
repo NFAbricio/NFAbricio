@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Back-End Developer
 ------------------
 
-Eu estudo programação a 4 anos. Meu ensino médio foi na ETEC-Poá, e atualmente estudo na faculdade IMPACTA, onde faço o curso de analise e desenvolvimento de sistemas. I've been learning to code for 4 years. My high school education was at ETEC-Poá, and I currently study at IMPACTA college, where I take software developer course.
+Estudante de TI formado em analise e desenvolvimento de sistemas pela Faculdade Impacta de Tecnologia, cursando Ciência de Dados pela Uninove.
 
 * 🌍  I'm based in São Paulo
 * ✉️  You can contact me at [fabnunes014@gmail.com](mailto:fabnunes014@gmail.com)
