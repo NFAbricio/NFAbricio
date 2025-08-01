@@ -74,11 +74,3 @@ Estudante de TI formado em analise e desenvolvimento de sistemas pela Faculdade 
 
 <a href="https://github.com/NFAbricio" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NFAbricio&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/NFAbricio/NLW-20" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=NFAbricio&repo=To-do-List&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/NFAbricio/GO-Udemy" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=NFAbricio&repo=learning-recurssion&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/NFAbricio/To-do-List" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=NFAbricio&repo=previsao-com-py&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/NFAbricio/cassino_python" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=NFAbricio&repo=cassino_python&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
- 
